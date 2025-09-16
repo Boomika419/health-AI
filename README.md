@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
- <meta http-equiv="refresh" content="0"; url=https://huggingface.co/spaces/boomika/health_AI"/>
+  <meta charset="UTF-8">
+  <title>Health AI</title>
+  <!-- Redirect automatically -->
+  <meta http-equiv="refresh" content="0; url=https://huggingface.co/spaces/boomika/health_AI" />
 </head>
 <body>
-<h1>Redirecting to Health-AI...</h1>
-<p>If you are not redirected automatically,
-   <a href="https://https://huggingface.co/spaces/boomika/health_AI">click here</a>.
-</p>
+  <h1 style="text-align:center; color:#0366d6;">
+    <a href="https://huggingface.co/spaces/boomika/health_AI">Click here to use Health AI</a>
+  </h1>
 </body>
 </html>
