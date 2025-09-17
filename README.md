@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
- <meta http-equiv="refresh" content="0"; url=https://huggingface.co/spaces/boomika/health_AI"/>
-</head>
-<body>
-<h1>Redirecting to Health-AI...</h1>
-<p>If you are not redirected automatically,
-   <a href="https://https://huggingface.co/spaces/boomika/health_AI">click here</a>.
-</p>
-</body>
-</html>
+- 📄 *PDF Report:* [project1.pdf](project1.pdf)
+- 📓 *app.py.ipynb Notebook:* [healthai.ipynb](healthai.ipynb)
+- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/boomika/health-ai1)
+- 🎥 *Demo Video:* [Watch here](https://github.com/23ucs518-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo.vedio.1.1.mp4)
