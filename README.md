@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project1.pdf](project1.pdf)
 - 📓 *app.py.ipynb Notebook:* [healthai.ipynb](healthai.ipynb)
 - 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/boomika/health-ai1)
-- 🎥 *Demo Video:* [Watch here](https://github.com/23ucs518-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo.vedio.1.1.mp4)
+- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1D4XjsHYEiyDb51bT47hKyFnCs9Fxs3T7/view?usp=drivesdk)
