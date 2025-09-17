@@ -6,7 +6,7 @@
 <body>
 <h1>Redirecting to Health-AI...</h1>
 <p>If you are not redirected automatically,
-   <a href="https://https://huggingface.co/spaces/boomika/health_AI">click here to use Health AI</a>.
+   <a href="https://https://huggingface.co/spaces/boomika/health_AI">click here</a>.
 </p>
 </body>
 </html>
