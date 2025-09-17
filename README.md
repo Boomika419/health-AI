@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project1.pdf](health ai.pdf)
 - 📓 *app.py.ipynb Notebook:* [healthai.ipynb](health_ai (4).ipynb)
 - 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/23ucs518/healthAI)
-- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1D4XjsHYEiyDb51bT47hKyFnCs9Fxs3T7/view?usp=drivesdk)
+- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1kH2Td0mtYSrl9ew6HhttC9D6GON9dzQK/view?usp=drivesdk)
